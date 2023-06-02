@@ -1,17 +1,3 @@
-/* Name: Huixin Xu
-Due Date: Mar 26th, 2023
-Section: CST8285 313
-Lab: 23W lab5
-File: index.js
-Lab objective: Using client-side form validation using DOM manipulation. 
-*/
-
-/* 
-you will confirm this input in the get header ???
-/g ???
-why term check cannot use arrow function??
-*/
-
 //define global variables
 let emailInput = document.querySelector("#email");
 let emailErrorMsg = "Please enter a valid email";
